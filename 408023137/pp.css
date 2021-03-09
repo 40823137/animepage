@@ -1,0 +1,21 @@
+body {
+    width: 99%;
+    height: 300px;
+    background-image: url(./555.jpg);
+    background-size: cover;
+}
+.title {
+    font-size: 88px;
+    color:black;
+    
+}
+.title2 {
+    font-size: 40px;
+    color:black;
+    
+}
+.text {
+    font-size: 25px;
+    color:black;
+    
+}
