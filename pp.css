@@ -1,26 +1,60 @@
 body {
     width: 99%;
     height: 300px;
-    background-image: url(./555.jpg);
-    background-size: cover;
+    background-color: black;
+    background-image: url("556.png");
+    background-size: auto;
 }
 .title {
     font-size: 88px;
-    color:black;
+    color:rgb(168, 45, 45);
     
 }
 .title2 {
     font-size: 40px;
-    color:black;
+    color:rgb(168, 45, 45);
     
 }
 .text {
     font-size: 25px;
-    color:black;
+    color:rgb(168, 45, 45);
     
 }
 .p22 {
     font-size: 20px;
-    color:black;
+    color:rgb(168, 45, 45);
     
+}
+
+div {
+    
+  }
+    button {
+    text-align: center;
+    background-color:black;
+    border:none;
+    outline:none;
+
+  }
+.p{
+    
+    top: 160px;
+    left: 160px;
+}
+.shape-ex6{
+    width: 150px;
+    height: 150px;
+    max-width:  100%;
+    display: block;
+    background-color: #bbb;
+    position: relative;
+    font-size: 0;
+}
+.box{
+   
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-left:-335px;
+    margin-top:-102.5px;
 }
